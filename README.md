@@ -5,6 +5,7 @@
 
 💻 <b>Automated and Manual Software Testing</b>
 <br>
+<br>
 UI (User Interface) and User Experience (UX) test cases is a critical responsibility to ensure the software functions as expected. The process of writing and executing these test cases provides several key benefits, including early detection of defects, identification of risks related to software functionality, improved testing efficiency, and a clear roadmap for testers. 
 <br>
 ⭐ <b>Benefits of Automated Testing</b>
