@@ -19,7 +19,7 @@ UI (User Interface) and User Experience (UX) test cases is a critical responsibi
    regression testing.
 
 ✅  While setting up automated testing can be costly—due to software, tools, and 
-    training—manual testing can be more cost-effective for smaller projects or 
+    training, manual testing can be more cost-effective for smaller projects or 
     one-time tests.
 
 ⭐ <b>Benefits of Manual Testing</b>
