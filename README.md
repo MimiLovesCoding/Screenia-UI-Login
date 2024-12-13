@@ -18,26 +18,26 @@ UI (User Interface) and User Experience (UX) test cases is a critical responsibi
    repeated as often as needed without additional costs, making them ideal for 
    regression testing.
 
-✅  While setting up automated testing can be costly—due to software, tools, and 
+✅  While setting up automated testing can be costly due to software, tools, and 
     training, manual testing can be more cost-effective for smaller projects or 
     one-time tests.
 
 ⭐ <b>Benefits of Manual Testing</b>
 <br>
 ✅  Manual testing is more adaptable and can accommodate changes quickly, while 
-    automated testing is constrained to predefined scripts, making it less 
+    automated testing is limited to predefined scripts, making it less 
     flexible for dynamic or exploratory testing scenarios.
 
 ✅  Manual testing allows testers to leverage their intuition and experience, 
-    enabling them to explore edge cases, uncover unexpected issues, and make 
-    judgment calls that automated tests may miss.
+    enabling them to uncover unexpected issues, and make judgment calls that 
+    automated tests may sometimes miss.    
 
-✅  Manual testing can provide a deeper understanding of the user experience by 
-    simulating how real users interact with the application, which is valuable 
-    for assessing UI/UX nuances.
+✅  Manual testing can provide a deeper understanding of the user experience(UX) 
+    by simulating how real users interact with the application, which is 
+    valuable for assessing UI/UX nuances.
 
-✅  Automated testing excels in running repetitive tests consistently and at 
-    scale, ensuring issues that might go unnoticed in manual testing are 
+✅  Automated testing is good for running repetitive tests consistently and at 
+    ensuring issues that might go unnoticed in manual testing are 
     identified early.
 
 💡 <b>Conclusion</b>
