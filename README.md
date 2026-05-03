@@ -100,7 +100,7 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 🔧 Java JDK 8 or higher — [Download Here](https://www.oracle.com/java/technologies/downloads/)<br>
 🔧 Maven or an IDE such as Eclipse or IntelliJ IDEA<br>
 🔧 Google Chrome browser installed<br>
-🔧 ChromeDriver matching your Chrome version — Download Here <br>
+🔧 ChromeDriver matching your Chrome version — [Download Here](https://developer.chrome.com/docs/chromedriver/downloads) <br>
 🔧 TestNG plugin installed in your IDE<br>
 
 ### Setup Steps<br>
