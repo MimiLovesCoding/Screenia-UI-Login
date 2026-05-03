@@ -58,17 +58,17 @@ Tested failure and edge scenarios:
 
 Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
-🔸 Test steps and preconditions<br>
-🔸 Expected results<br>
-🔸 Environment details (browser/version)<br>
-🔸 Pass/Fail status<br>
+⭐ Test steps and preconditions<br>
+⭐ Expected results<br>
+⭐ Environment details (browser/version)<br>
+⭐ Pass/Fail status<br>
 
 📌 Example scenarios include:<br>
 
-🔸 Login with valid credentials → successful access<br>
-🔸 Login with invalid credentials → error message displayed<br>
-🔸 Upload image → appears in gallery<br>
-🔸 Delete image → removed from system<br>
+⭐ Login with valid credentials → successful access<br>
+⭐ Login with invalid credentials → error message displayed<br>
+⭐ Upload image → appears in gallery<br>
+⭐ Delete image → removed from system<br>
 
 ---
 
@@ -82,9 +82,9 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ---
 
-## 📸 Test Case Sample
+## 📸 Test Case Sample<br>
 
-(Include your spreadsheet image here — this is a strong visual proof of your work)
+![image](https://github.com/user-attachments/assets/71aa064b-82ac-407e-9ab3-26328184cc89)
 
 ---
 
@@ -104,13 +104,6 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 ✔️ Add assertion-based validation for UI elements<br>
 ✔️ Expand test coverage to additional application features<br>
 ✔️ Integrate tests into CI/CD pipeline<br>
-
-
-<hr>
-
-📋 UI Test Cases Spreadsheet 
-
-![image](https://github.com/user-attachments/assets/71aa064b-82ac-407e-9ab3-26328184cc89)
 
 <hr>
 
