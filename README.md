@@ -96,14 +96,15 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 ---
 
 ## ▶️ How to Run the Test Suite<br>
-### Prerequisites<br>
+
+### 📚 Prerequisites<br>
 🔧 Java JDK 8 or higher — [Download Here](https://www.oracle.com/java/technologies/downloads/)<br>
 🔧 Maven or an IDE such as Eclipse or IntelliJ IDEA<br>
 🔧 Google Chrome browser installed<br>
 🔧 ChromeDriver matching your Chrome version — [Download Here](https://developer.chrome.com/docs/chromedriver/downloads) <br>
 🔧 TestNG plugin installed in your IDE<br>
 
-### Setup Steps<br>
+### 📄 Setup Steps<br>
 
 1. Clone or download this repository to your local machine<br>
 2. Open the project in Eclipse or IntelliJ IDEA<br>
@@ -112,7 +113,7 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 5. Update any file path references in AutomateBasicTasks.java to match your local environment<br>
 
 
-### Running the Tests<br>
+### 📝 Running the Tests<br>
 Option 1 — Run via TestNG XML:<br>
 
 Right-click testng.xml<br>
