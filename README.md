@@ -82,6 +82,18 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ---
 
+## 📈 Code Structure<br>
+
+| File | Purpose |
+| ------------- | ------------- |
+|AutomateBasicTasks.java|Selenium scripts automating core login and upload workflows|<br>
+|TestingControl.java| TestNG test controller managing test execution flow | <br>
+|testNG.xml | TestNG configuration file defining the test suite and execution order|<br>
+
+
+
+---
+
 ## 📸 Test Case Sample<br>
 
 ![image](https://github.com/user-attachments/assets/71aa064b-82ac-407e-9ab3-26328184cc89)
