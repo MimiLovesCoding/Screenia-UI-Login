@@ -39,9 +39,9 @@ Validated expected behavior for core user actions:
 
 Tested failure and edge scenarios:
 
-* Invalid login credentials
-* Missing input fields
-* Unauthorized access attempts
+🔴 Invalid login credentials<br>
+🔴 Missing input fields<br>
+🔴 Unauthorized access attempts<br>
 
 ---
 
