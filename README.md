@@ -29,9 +29,9 @@ Testing covered both positive and negative scenarios to ensure reliability, usab
 
 Validated expected behavior for core user actions:
 
-* Successful login with valid credentials
-* File upload and display in gallery
-* Image editing and interaction
+🔷 Successful login with valid credentials<br>
+🔷 File upload and display in gallery<br>
+🔷 Image editing and interaction<br>
 
 ---
 
