@@ -113,10 +113,10 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ## 🚀 Future Improvements
 
-✔️ Automate full test suite using Selenium<br>
-✔️ Add assertion-based validation for UI elements<br>
-✔️ Expand test coverage to additional application features<br>
-✔️ Integrate tests into CI/CD pipeline<br>
+🔲 Automate full test suite using Selenium<br>
+🔲 Add assertion-based validation for UI elements<br>
+🔲 Expand test coverage to additional application features<br>
+🔲 Integrate tests into CI/CD pipeline<br>
 
 <hr>
 
