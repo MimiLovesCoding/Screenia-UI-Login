@@ -47,10 +47,10 @@ Tested failure and edge scenarios:
 
 ### Validation Focus
 
-🔶 UI behavior and navigation
-🔶 Error message accuracy
-🔶 Functional consistency across workflows
-🔶 Data handling during file operations
+🔶 UI behavior and navigation<br>
+🔶 Error message accuracy<br>
+🔶 Functional consistency across workflows<br>
+🔶 Data handling during file operations<br>
 
 ---
 
