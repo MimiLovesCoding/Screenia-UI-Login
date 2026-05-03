@@ -14,12 +14,12 @@ Testing covered both positive and negative scenarios to ensure reliability, usab
 
 ## 🧪 Features Tested
 
-* User login (valid and invalid credentials)
-* Authentication error handling
-* File upload functionality
-* Image preview and editing
-* File deletion
-* File zoom and interaction
+🔄 User login (valid and invalid credentials)<br>
+🔄 Authentication error handling<br>
+🔄 File upload functionality<br>
+🔄 Image preview and editing<br>
+🔄 File deletion<br>
+🔄 File zoom and interaction<br>
 
 ---
 
