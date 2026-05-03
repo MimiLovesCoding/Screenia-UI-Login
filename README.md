@@ -97,7 +97,7 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ## ▶️ How to Run the Test Suite<br>
 ### Prerequisites<br>
-🔧 Java JDK 8 or higher — Download Here<br>
+🔧 Java JDK 8 or higher — [Download Here](https://www.oracle.com/java/technologies/downloads/)<br>
 🔧 Maven or an IDE such as Eclipse or IntelliJ IDEA<br>
 🔧 Google Chrome browser installed<br>
 🔧 ChromeDriver matching your Chrome version — Download Here <br>
