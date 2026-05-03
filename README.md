@@ -1,48 +1,110 @@
-![image](https://github.com/user-attachments/assets/95879343-5722-4331-9367-7bd66043862d)
-# Screenia-UI-Login-and-File-Upload
+# 🔐 Screenia UI Testing — Login & File Upload Validation
 
-<hr>
+This project demonstrates manual and automated testing of the Screenia application, focusing on login functionality and file upload workflows.
 
-💻 <b>Automated and Manual Software Testing</b>
-<br>
-<br>
-UI (User Interface) and User Experience (UX) test cases is a critical responsibility to ensure the software functions as expected. The process of writing and executing these test cases provides several key benefits, including early detection of defects, identification of risks related to software functionality, improved testing efficiency, and a clear roadmap for testers. 
-<br>
-<br>
-⭐ <b>Benefits of Automated Testing</b>
-<br>
-✅ Automated testing can offer higher accuracy than manual testing by reducing 
-   human error and ensuring consistent execution.
+---
 
-✅ Automated tests can be executed much faster than manual tests and can be 
-   repeated as often as needed without additional costs, making them ideal for 
-   regression testing.
+## 📋 Project Overview
 
-✅  While setting up automated testing can be costly due to software, tools, and 
-    training, manual testing can be more cost-effective for smaller projects or 
-    one-time tests.
+The goal of this project was to validate core user workflows, including authentication and file management, through structured test cases and execution tracking.
 
-⭐ <b>Benefits of Manual Testing</b>
-<br>
-✅  Manual testing is more adaptable and can accommodate changes quickly, while 
-    automated testing is limited to predefined scripts, making it less 
-    flexible for dynamic or exploratory testing scenarios.
+Testing covered both positive and negative scenarios to ensure reliability, usability, and proper error handling.
 
-✅  Manual testing allows testers to leverage their intuition and experience, 
-    enabling them to uncover unexpected issues, and make judgment calls that 
-    automated tests may sometimes miss.    
+---
 
-✅  Manual testing can provide a deeper understanding of the user experience(UX) 
-    by simulating how real users interact with the application, which is 
-    valuable for assessing UI/UX nuances.
+## 🧪 Features Tested
 
-✅  Automated testing is good for running repetitive tests consistently and at 
-    ensuring issues that might go unnoticed in manual testing are 
-    identified early.
+* User login (valid and invalid credentials)
+* Authentication error handling
+* File upload functionality
+* Image preview and editing
+* File deletion
+* File zoom and interaction
 
-💡 <b>Conclusion</b>
-<br>
-By strategically combining both manual and automated testing, QA Engineers can achieve comprehensive coverage, balance speed and flexibility, to ensure that the software delivers both functional quality and an optimal user experience.
+---
+
+## 🧪 Testing Approach
+
+### Functional Testing
+
+Validated expected behavior for core user actions:
+
+* Successful login with valid credentials
+* File upload and display in gallery
+* Image editing and interaction
+
+---
+
+### Negative Testing
+
+Tested failure and edge scenarios:
+
+* Invalid login credentials
+* Missing input fields
+* Unauthorized access attempts
+
+---
+
+### Validation Focus
+
+* UI behavior and navigation
+* Error message accuracy
+* Functional consistency across workflows
+* Data handling during file operations
+
+---
+
+## 📊 Test Case Execution
+
+Test cases were designed and tracked in a structured spreadsheet, including:
+
+* Test steps and preconditions
+* Expected results
+* Environment details (browser/version)
+* Pass/Fail status
+
+📌 Example scenarios include:
+
+* Login with valid credentials → successful access
+* Login with invalid credentials → error message displayed
+* Upload image → appears in gallery
+* Delete image → removed from system
+
+---
+
+## 🛠 Tools & Technologies
+
+* Selenium WebDriver (if applicable)
+* Java / Python (if used)
+* TestNG (if used)
+* Manual Testing
+* Microsoft Excel (Test Case Management)
+
+---
+
+## 📸 Test Case Sample
+
+(Include your spreadsheet image here — this is a strong visual proof of your work)
+
+---
+
+## 📚 Key Takeaways
+
+🎯 Gained hands-on experience testing real-world user workflows<br>
+🎯 Strengthened ability to design and execute structured test cases<br>
+🎯 Improved understanding of UI validation and user behavior testing<br>
+🎯 Practiced identifying defects through both functional and negative testing<br>
+🎯 Reinforced importance of documenting test execution and results<br>
+
+---
+
+## 🚀 Future Improvements
+
+✔️ Automate full test suite using Selenium<br>
+✔️ Add assertion-based validation for UI elements<br>
+✔️ Expand test coverage to additional application features<br>
+✔️ Integrate tests into CI/CD pipeline<br>
+
 
 <hr>
 
