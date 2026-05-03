@@ -114,13 +114,13 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 
 ### 📝 Running the Tests<br>
-Option 1 — Run via TestNG XML:<br>
+Option 1 —> Run via TestNG XML:<br>
 
 Right-click testng.xml<br>
 Select Run As → TestNG Suite<br>
 Results will display in the TestNG console<br>
 
-Option 2 — Run Individual Test Class:<br>
+Option 2 —> Run Individual Test Class:<br>
 
 Right-click TestingControl.java<br>
 Select Run As → TestNG Test<br>
