@@ -82,7 +82,7 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ---
 
-## 📈 Code Structure<br>
+## 📈 Code Structure explanation<br>
 
 | File | Purpose |
 | ------------- | ------------- |
