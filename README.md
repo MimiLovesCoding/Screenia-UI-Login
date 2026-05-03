@@ -74,11 +74,11 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ## 🛠 Tools & Technologies
 
-* Selenium WebDriver (if applicable)
-* Java / Python (if used)
-* TestNG (if used)
-* Manual Testing
-* Microsoft Excel (Test Case Management)
+🔧 Selenium WebDriver<br>
+🔧 Java<br>
+🔧 TestNG <br>
+🔧 Manual Testing<br>
+🔧 Microsoft Excel (Test Case Management)<br>
 
 ---
 
