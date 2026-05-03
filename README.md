@@ -105,11 +105,11 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ### Setup Steps<br>
 
-Clone or download this repository to your local machine<br>
-Open the project in Eclipse or IntelliJ IDEA<br>
-Ensure ChromeDriver is installed and its path is configured in your system<br>
-Add Selenium and TestNG libraries to your project build path<br>
-Update any file path references in AutomateBasicTasks.java to match your local environment<br>
+1. Clone or download this repository to your local machine<br>
+2. Open the project in Eclipse or IntelliJ IDEA<br>
+3. Ensure ChromeDriver is installed and its path is configured in your system<br>
+4. Add Selenium and TestNG libraries to your project build path<br>
+5. Update any file path references in AutomateBasicTasks.java to match your local environment<br>
 
 
 ### Running the Tests<br>
