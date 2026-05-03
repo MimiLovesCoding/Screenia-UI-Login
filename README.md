@@ -56,19 +56,19 @@ Tested failure and edge scenarios:
 
 ## 📊 Test Case Execution
 
-Test cases were designed and tracked in a structured spreadsheet, including:
+Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
-* Test steps and preconditions
-* Expected results
-* Environment details (browser/version)
-* Pass/Fail status
+🔸 Test steps and preconditions<br>
+🔸 Expected results<br>
+🔸 Environment details (browser/version)<br>
+🔸 Pass/Fail status<br>
 
-📌 Example scenarios include:
+📌 Example scenarios include:<br>
 
-* Login with valid credentials → successful access
-* Login with invalid credentials → error message displayed
-* Upload image → appears in gallery
-* Delete image → removed from system
+🔸 Login with valid credentials → successful access<br>
+🔸 Login with invalid credentials → error message displayed<br>
+🔸 Upload image → appears in gallery<br>
+🔸 Delete image → removed from system<br>
 
 ---
 
