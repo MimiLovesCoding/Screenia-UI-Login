@@ -95,6 +95,44 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ---
 
+## ▶️ How to Run the Test Suite
+Prerequisites
+🔧 Java JDK 8 or higher — Download Here<br>
+🔧 Maven or an IDE such as Eclipse or IntelliJ IDEA<br>
+🔧 Google Chrome browser installed<br>
+🔧 ChromeDriver matching your Chrome version — Download Here <br>
+🔧 TestNG plugin installed in your IDE<br>
+
+### Setup Steps<br>
+
+Clone or download this repository to your local machine<br>
+Open the project in Eclipse or IntelliJ IDEA<br>
+Ensure ChromeDriver is installed and its path is configured in your system<br>
+Add Selenium and TestNG libraries to your project build path<br>
+Update any file path references in AutomateBasicTasks.java to match your local environment<br>
+
+
+### Running the Tests<br>
+Option 1 — Run via TestNG XML:<br>
+
+Right-click testng.xml<br>
+Select Run As → TestNG Suite<br>
+Results will display in the TestNG console<br>
+
+Option 2 — Run Individual Test Class:<br>
+
+Right-click TestingControl.java<br>
+Select Run As → TestNG Test<br>
+
+
+Expected Output<br>
+✅ TestNG will open a Chrome browser window automatically<br>
+✅ Tests will execute login and file upload workflows<br>
+✅ Pass/Fail results will display in the TestNG Results console<br>
+✅ Failed tests will include error messages and stack traces for debugging<br>
+
+
+
 ## 📸 Test Case Sample<br>
 
 ![image](https://github.com/user-attachments/assets/71aa064b-82ac-407e-9ab3-26328184cc89)
