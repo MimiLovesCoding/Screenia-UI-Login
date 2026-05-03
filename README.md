@@ -95,8 +95,8 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 
 ---
 
-## ▶️ How to Run the Test Suite
-Prerequisites
+## ▶️ How to Run the Test Suite<br>
+Prerequisites<br>
 🔧 Java JDK 8 or higher — Download Here<br>
 🔧 Maven or an IDE such as Eclipse or IntelliJ IDEA<br>
 🔧 Google Chrome browser installed<br>
