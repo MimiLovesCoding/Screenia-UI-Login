@@ -89,6 +89,7 @@ Test cases were designed and tracked in a structured spreadsheet, including:<br>
 |AutomateBasicTasks.java|Selenium scripts automating core login and upload workflows|<br>
 |TestingControl.java| TestNG test controller managing test execution flow | <br>
 |testNG.xml | TestNG configuration file defining the test suite and execution order|<br>
+|package-info.java | A special Java file used to provide package-level documentation and annotations|<br>
 
 
 
