@@ -1,4 +1,4 @@
-# 🔐 Screenia UI Testing — Login & File Upload Validation
+# 🔐 Screenia UI Testing ➖ Login & File Upload Validation
 
 This project demonstrates manual and automated testing of the Screenia application, focusing on login functionality and file upload workflows.
 
